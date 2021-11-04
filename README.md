@@ -1,6 +1,6 @@
 # Tableau-HW---Citi-Bike-Analytics
 
-
+![img-20160827-191029-largejpg](https://user-images.githubusercontent.com/82190357/140237827-bf4dabaa-6729-44c8-baa0-396159b6008c.jpg)
 
  Citi Bike Observations and Analysis  
  
